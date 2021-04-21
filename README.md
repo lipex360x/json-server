@@ -7,6 +7,7 @@
 #### :bookmark_tabs: Content Index
 - [Start Server](#zap-start-server)
 - [JSON File Example](#zap-json-file-example)
+- [Import Insomnia Data](#zap-import-insomnia-data)
 - [HTTP GET Request](#zap-http-get-request)
 - [VSCode Extension](#zap-vscode-extension)
 
@@ -35,6 +36,14 @@ Create `filename.json` in root path with:
   "users": []
 }
 ```
+
+---
+
+#### :zap: Import Insomnia Data
+
+To interactive with the JSON Server on Insomnia REST, first install: [click here](https://insomnia.rest/download) to download.
+
+After that, import ***insomnia.json*** file in `Insomnia Preferences > Data > Import Data`
 
 ---
 
