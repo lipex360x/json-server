@@ -2,6 +2,10 @@
 
 ![JSON-SERVER](https://github.com/lipex360x/json-server/blob/master/assets/screen.png)
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 #### :bookmark_tabs: Content Index
 - [Start Server](#zap-start-server)
 - [JSON File Example](#zap-json-file-example)
