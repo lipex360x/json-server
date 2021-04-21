@@ -1,5 +1,5 @@
 <h2 align="center">JSON Server</h2>
-
+<p align="center">A Interactive JSON Server Service</p>
 <p align="center">
   <img src="https://github.com/lipex360x/json-server/blob/master/assets/screen.png" alt="JSON SERVER"/>
 </p>
