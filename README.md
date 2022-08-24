@@ -20,7 +20,9 @@ In the terminal on the root project path, run: `json-server -w server.json`
 * Optional settings
 
 -H: `ip [default: localhost]`
+
 -d: `delay in ms`
+
 -p: `port`
 
 ***See more with `-h`***
